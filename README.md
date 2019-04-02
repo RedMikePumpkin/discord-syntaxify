@@ -22,3 +22,17 @@ Parameters:
 - <`String`> text: text to be syntaxified
 
 Returns: <`String`>: the syntaxified text, will be "Error!" if an error occured
+
+Example:
+
+```js
+// include syntaxify.js in your html code
+
+var string = "Yeet!";
+
+var syntaxified = Syntaxify(string);
+
+console.log(syntaxified);
+// output expected:
+// "||**~~__*`Y`*__~~**||||**~~__*`e`*__~~**||||**~~__*`e`*__~~**||||**~~__*`t`*__~~**||||**~~__*`!`*__~~**||"
+```
