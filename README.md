@@ -1,5 +1,8 @@
 # discord-syntaxify
+
 Turn any text into weird discord formatting
+
+You can see a live demo [here](http://redmikepumpkin.github.io/discord-syntaxify/index.html)
 
 ## files
 
